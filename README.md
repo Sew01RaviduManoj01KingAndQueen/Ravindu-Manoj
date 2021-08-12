@@ -1,5 +1,5 @@
 ## ඔබට කුමක් හෝ ගැටලුවක් ඇත්නම් විසදා ගැනීමට අපගේ ටෙලිග්‍රෑම් ගෲපයට ජොයින් වන්න
- [Telegrame](https://bit.ly/2XrFPCJ)
+## [Telegrame](https://bit.ly/2XrFPCJ)
 
 
 <details>
@@ -7,19 +7,19 @@
 
 # Heroku Register Link 👇👇👇
 
-[Heroku Register](https://signup.heroku.com/login)
+## [Heroku Register](https://signup.heroku.com/login)
 
 #
 
 # Remove Background Api Link👇👇👇
 
-[Remove.bg](https://www.remove.bg/)
+## [Remove.bg](https://www.remove.bg/)
 
 #
 
 # Bot Link 👇👇👇
 
-[Sew Queen](https://github.com/Sew01RaviduManoj01KingAndQueen/QueenSew.git)
+## [Sew Queen](https://github.com/Sew01RaviduManoj01KingAndQueen/QueenSew.git)
 
 
 #
@@ -34,19 +34,19 @@
 
 # Base 64 encoder Link 👇👇👇
 
-[img to base 64](https://codebeautify.org/image-to-base64-converter)
+## [img to base 64](https://codebeautify.org/image-to-base64-converter)
 
 #
 
 # Image Hosting Website
 
-[img host](https://imgbb.com/)
+## [img host](https://imgbb.com/)
 
 #
 
 # Xteam Register Link
 
-[xteam](https://api.xteam.xyz/register)
+## [xteam](https://api.xteam.xyz/register)
 
 #
 </details>
