@@ -24,8 +24,6 @@
 
 
 
-[![RAVINDU MANOJ](https://bit.ly/3AyW139)]
-
 
 </details>
 
