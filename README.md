@@ -1,12 +1,10 @@
 ## ඔබට කුමක් හෝ ගැටලුවක් ඇත්නම් විසදා ගැනීමට අපගේ ටෙලිග්‍රෑම් ගෲපයට ජොයින් වන්න
 ## [Telegrame](https://bit.ly/2XrFPCJ)<b>
-                                                                                                  .
-                                                                                                 .
-                                                                                                 .
-                                                                                                 .
-                                                                                                 .
-
-
+                                                                                 
+.
+.
+.
+.
 <details>
     <summary>&#127942 <b><h1>Account And Api</h1></b></summary>
 
@@ -31,12 +29,11 @@
 
 
 </details>
-
-                                                                                                 .
-                                                                                                 .
-                                                                                                 .
-                                                                                                 .
-
+  .
+  .
+  .
+  .
+  
 <details>
     <summary>&#127942 <b><h1>Full Control Items</h1></b></summary>
 
@@ -58,10 +55,9 @@
 
 
 </details>
-
-
-
-
-
+.
+.
+.
+.
 
 [![RAVINDU MANOJ](https://bit.ly/3AyW139)](https://github.com/Sew01RaviduManoj01KingAndQueen/QueenSew.git)
