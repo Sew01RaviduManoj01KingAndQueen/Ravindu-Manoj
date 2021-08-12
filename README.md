@@ -1,5 +1,5 @@
 ## ඔබට කුමක් හෝ ගැටලුවක් ඇත්නම් විසදා ගැනීමට අපගේ ටෙලිග්‍රෑම් ගෲපයට ජොයින් වන්න
- [Telegrame](t.me/SewQueen)
+ [Telegrame](https://bit.ly/2XrFPCJ)
 
 
 <details>
